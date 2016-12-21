@@ -1,2 +1,4 @@
 # reactboilerplate
-The boiler plate for my react apps
+Install globally
+npm install --global browserify
+npm install --global babel-cli
